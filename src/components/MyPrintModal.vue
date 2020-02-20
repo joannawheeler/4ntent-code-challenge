@@ -93,6 +93,12 @@ export default {
   overflow-y: auto;
 }
 
+@media only screen and (max-width: 600px) {
+  .my-print-modal__body {
+    padding: 22px;
+  }
+}
+
 @media print {
   .my-print-modal__container {
     box-shadow: 0;

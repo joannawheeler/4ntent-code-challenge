@@ -1,3 +1,8 @@
+.my-loading {
+  text-align: center;
+  padding: 55px;
+}
+
 .modal-enter-active,
 .modal-leave-active {
   transition: all 0.25s;
