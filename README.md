@@ -8,9 +8,11 @@
 
 ### git clone the repo from here: https://github.com/joannawheeler/4ntent-code-challenge
 
-### create a branch on your local machine (w/ git)
+### create a git branch on your local machine, naming the branch your github username
 
 ### git checkout into the branch so you do the code challenge on your own branch, NOT on master
+
+### later you will push this branch to this repo
 
 # in your project:
 
