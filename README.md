@@ -40,6 +40,6 @@
 
 # Once you are finished:
 
-### Push your branch to this github repo. 
+### Push your branch, make a pull request 
 
 ### Awesome!!! Can't wait to see what you can do! Ask me any questions as a Git Issue here: https://github.com/joannawheeler/4ntent-code-challenge/issues. I should be able to get back to you within a few hours or so. Good luck!
