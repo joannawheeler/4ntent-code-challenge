@@ -10,7 +10,7 @@
 
 # in your project:
 
-### use npm to install to download the following:
+### use npm to install the following:
 
 ### vue cli from here: https://cli.vuejs.org
 
