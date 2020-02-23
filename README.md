@@ -44,6 +44,6 @@
 
 # Once you are finished:
 
-### Push your final project to the github repo you cloned from. If you realize you need to change anything after that, feel free to make changes, add, commit, and push them to the remote repo
+### Push your branch to this github repo. 
 
-### Awesome!!! Can't wait to see what you can do! Ask me any questions as a Git Issue within the repo here: https://github.com/joannawheeler/4ntent-code-challenge/issues. I should be able to get back to you within a few hours or so. Good luck!
+### Awesome!!! Can't wait to see what you can do! Ask me any questions as a Git Issue here: https://github.com/joannawheeler/4ntent-code-challenge/issues. I should be able to get back to you within a few hours or so. Good luck!
